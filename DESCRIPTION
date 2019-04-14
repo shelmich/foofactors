@@ -16,3 +16,5 @@ BugReports: https://github.com/shelmich/foofactors/issues
 Roxygen: list(markdown = TRUE)
 Imports: 
     forcats
+Suggests: 
+    testthat
